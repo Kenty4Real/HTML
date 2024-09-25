@@ -74,37 +74,37 @@ function changeClass() {
 
 
 
-// function action1(){
-//    // $("div p").replaceWith(replacementFn)
-//     //$('button').html('new')
-//     $("p").html("<a href='https://google.com'> Now it' link!</a>")
-// }
+function action1(){
+   // $("div p").replaceWith(replacementFn)
+    //$('button').html('new')
+    $("p").html("<a href='https://google.com'> Now it' link!</a>")
+}
 
 
-// function replacementFn() {
-//     return "<a href='http://www.youtube.com'>" + $(this).text() + '</a>';
-// }
+function replacementFn() {
+    return "<a href='http://www.youtube.com'>" + $(this).text() + '</a>';
+}
 
-// function action2() {
-//     $("a").hover(hoverToggleUp, hoverToggleDown);
+function action2() {
+    $("a").hover(hoverToggleUp, hoverToggleDown);
    
-// }
+}
 
-// function hoverToggleUp(){
-//     $(this).css("font-size", "20px")
-// }
-// function hoverToggleDown(){
-//     $(this).css("font-size", "5px")
-// }
+function hoverToggleUp(){
+    $(this).css("font-size", "20px")
+}
+function hoverToggleDown(){
+    $(this).css("font-size", "5px")
+}
 
-// function action3 () {
-//     $('p').fadeOut();
-//     $('a').fadeOut();
-//     $("button").slideUp();
+function action3 () {
+    $('p').fadeOut();
+    $('a').fadeOut();
+    $("button").slideUp();
 
-// } 
+} 
 
-// function insertAfter() {
-//     $("button").height(440);
-// }
+function insertAfter() {
+    $("button").height(440);
+}
 
