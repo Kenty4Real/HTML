@@ -1,22 +1,22 @@
 
-function getInfo() {
-    alert($('#example').html());
-    alert($('p').text());
-}
+// function getInfo() {
+//     alert($('#example').html());
+//     alert($('p').text());
+// }
 
-function changeDiv() {
-    $('#example').html('new div content')
-}
+// function changeDiv() {
+//     $('#example').html('new div content')
+// }
 
-function changeOne(){
-    $('#para1').text('some new tekst')
-}
+// function changeOne(){
+//     $('#para1').text('some new tekst')
+// }
 
-function changeClass() {
-    $(".classA").html("<a href='https://google.com'> Now it' link!</a>")
-}
+// function changeClass() {
+//     $(".classA").html("<a href='https://google.com'> Now it' link!</a>")
+// }
 
-
+$(changes)
 
 
 
